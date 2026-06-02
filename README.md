@@ -94,3 +94,43 @@ http://127.0.0.1:1690/history_data?stock_code=600000&period=1d&count=10
 
 - [桥接大qmt数据获取文档](大QMT外部调用web服务/桥接大qmt数据获取文档.md)
 - [AI 协作上下文](AGENTS.md)
+
+## 👨‍💻 作者信息
+
+**余汉波** - 编程爱好者-量化交易和效率工具开发
+
+- **GitHub**: [@yuhanbo758](https://github.com/yuhanbo758)
+
+- **Email**: yuhanbo@sanrenjz.com
+
+- **Website**: [三人聚智](https://www.sanrenjz.com)
+
+## 🌐 相关链接
+
+- 🏠 [项目主页](https://www.sanrenjz.com)
+
+- 📚 [在线文档](https://docs.sanrenjz.com)（财经、代码和库文档等）
+
+- 🛒 [插件商店](https://shop.sanrenjz.com)（个人开发的所有程序，包括开源和不开源）
+
+
+## 联系我们
+
+[联系我们 - 三人聚智-余汉波](https://www.sanrenjz.com/contact_us/)
+
+python 程序管理工具下载：[sanrenjz - 三人聚智-余汉波](https://www.sanrenjz.com/sanrenjz/)
+
+效率工具程序管理下载：[sanrenjz-tools - 三人聚智-余汉波](https://www.sanrenjz.com/sanrenjz-tools/)
+
+智能codebot下载：[sanrenjz-codebot - 三人聚智-余汉波](https://www.sanrenjz.com/sanrenjz-codebot/)
+
+![三码合一](https://gdsx.sanrenjz.com/image/sanrenjz_yuhanbolh_yuhanbo758.png?imageSlim&t=1ab9b82c-e220-8022-beff-e265a194292a)
+
+![余汉波打赏码](https://gdsx.sanrenjz.com/image/%E6%89%93%E8%B5%8F%E7%A0%81%E5%90%88%E4%B8%80.png?imageSlim)
+
+## 🙏 致谢
+
+感谢所有为本项目贡献代码和想法的开发者们！
+
+---
+**⭐ 如果这个项目对您有帮助，请给它一个 Star！**
