@@ -1,0 +1,20 @@
+# Python cache and virtual environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Local environment files
+.env
+.env.*
+
+# Local editor and OS files
+.idea/
+.vscode/
+*.tmp
+*.log
+
+# Local debug and security scan artifacts
+security-report.json
+trae-debug-log-internal-server-error.ndjson
